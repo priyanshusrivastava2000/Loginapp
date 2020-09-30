@@ -42,6 +42,9 @@ class loginPage extends State<Login>{
         backgroundColor: Colors.blue,
       ),
       backgroundColor: Colors.blueGrey,
+      bottomNavigationBar: Container(
+        child: FlatButton.icon(onPressed: (){print("pressed");}, icon: Icon(Icons.accessible), label: Text("Accessbility")),
+      ),
       body: new Container(
         alignment: Alignment.topCenter,
         child: new Column(
