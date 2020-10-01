@@ -91,7 +91,7 @@ class loginPage extends State<Login>{
                             color: Colors.blue,
                             child: Text(
                               "LOGIN",style: TextStyle(color: Colors.white,
-                                fontSize: 20,
+                                fontSize: 21,
                                 fontWeight: FontWeight.w600
                             ),
                             ))
