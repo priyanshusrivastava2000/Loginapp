@@ -40,7 +40,7 @@ class loginPage extends State<Login>{
         title: Text("LOGIN",style: TextStyle(
           color: Colors.white,
           fontWeight: FontWeight.w800,
-          fontSize: 30
+          fontSize: 31
         ),),
         centerTitle: true,
         backgroundColor: Colors.blue,
