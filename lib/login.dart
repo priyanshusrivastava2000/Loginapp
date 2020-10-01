@@ -118,7 +118,7 @@ class loginPage extends State<Login>{
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Text("Welcome, $welcome",style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 21,
                   fontWeight: FontWeight.w900,
                   color: Colors.orangeAccent
                 ),)
